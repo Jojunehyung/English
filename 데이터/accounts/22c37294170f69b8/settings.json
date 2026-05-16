@@ -1,0 +1,152 @@
+{
+  "template_path": "D:\\English\\문제 서식\\standard_a.docx",
+  "fmt": {
+    "source_type": "docx",
+    "orientation": "portrait",
+    "page_width_cm": 21.0,
+    "page_height_cm": 29.7,
+    "top_margin_cm": 2.0,
+    "bottom_margin_cm": 2.0,
+    "left_margin_cm": 1.5,
+    "right_margin_cm": 1.5,
+    "font_name": "맑은 고딕",
+    "font_size": 12.0,
+    "para_specs": {
+      "ws_header": {
+        "font": "맑은 고딕",
+        "size": 12.0,
+        "bold": true,
+        "sb": 0,
+        "sa": 0,
+        "ind": 0,
+        "align": "CENTER"
+      },
+      "score": {
+        "font": "맑은 고딕",
+        "size": 10.0,
+        "bold": false,
+        "sb": 2.0,
+        "sa": 8.0,
+        "ind": 0,
+        "align": "RIGHT"
+      },
+      "section": {
+        "font": "맑은 고딕",
+        "size": null,
+        "bold": true,
+        "sb": 0,
+        "sa": 6.0,
+        "ind": 0,
+        "align": null
+      },
+      "passage": {
+        "font": "맑은 고딕",
+        "size": null,
+        "bold": true,
+        "sb": 8.0,
+        "sa": 3.0,
+        "ind": 0,
+        "align": null
+      },
+      "keyword_hdr": {
+        "font": "맑은 고딕",
+        "size": 10.0,
+        "bold": true,
+        "sb": 5.0,
+        "sa": 2.0,
+        "ind": 0,
+        "align": null
+      },
+      "blk_header": {
+        "font": "맑은 고딕",
+        "size": 10.0,
+        "bold": true,
+        "sb": 4.0,
+        "sa": 2.0,
+        "ind": 0,
+        "align": null
+      },
+      "tf_item": {
+        "font": "맑은 고딕",
+        "size": 9.0,
+        "bold": false,
+        "sb": 1.0,
+        "sa": 2.0,
+        "ind": 0,
+        "align": null
+      },
+      "mc_blk_header": {
+        "font": "맑은 고딕",
+        "size": 10.0,
+        "bold": true,
+        "sb": 4.0,
+        "sa": 2.0,
+        "ind": 0,
+        "align": null
+      },
+      "mc_body": {
+        "font": "맑은 고딕",
+        "size": 10.0,
+        "bold": false,
+        "sb": 3.0,
+        "sa": 1.0,
+        "ind": 0,
+        "align": null
+      },
+      "mc_choice": {
+        "font": "맑은 고딕",
+        "size": 10.0,
+        "bold": false,
+        "sb": 0,
+        "sa": 1.0,
+        "ind": 0.5,
+        "align": null
+      },
+      "chunk_hdr": {
+        "font": "맑은 고딕",
+        "size": 10.0,
+        "bold": true,
+        "sb": 5.0,
+        "sa": 2.0,
+        "ind": 0,
+        "align": null
+      },
+      "chunk_item": {
+        "font": "맑은 고딕",
+        "size": 10.0,
+        "bold": false,
+        "sb": 1.0,
+        "sa": 2.0,
+        "ind": 0.5,
+        "align": null
+      },
+      "ans_title": {
+        "font": "맑은 고딕",
+        "size": null,
+        "bold": true,
+        "sb": 0,
+        "sa": 0,
+        "ind": 0,
+        "align": "CENTER"
+      },
+      "ans_passage": {
+        "font": "맑은 고딕",
+        "size": 10.0,
+        "bold": true,
+        "sb": 6.0,
+        "sa": 3.0,
+        "ind": 0,
+        "align": null
+      },
+      "hard_blk_header": {
+        "font": "맑은 고딕",
+        "size": 10.0,
+        "bold": true,
+        "sb": 4.0,
+        "sa": 2.0,
+        "ind": 0,
+        "align": null
+      }
+    }
+  }
+}

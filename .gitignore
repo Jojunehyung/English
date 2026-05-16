@@ -1,43 +1,21 @@
-# 빌드 결과물
+# 빌드 결과물 (용량 큼)
 dist/
 build/
-*.spec
+dist.zip
 
 # Python 캐시
 __pycache__/
 *.py[cod]
 *.pyo
 
-# 런타임 데이터 (학생/성적 정보 — 개인정보 보호)
-데이터/
-결과/
-
-# 문제 파일 (배포 대상 아님)
-문제/
-
-# 설정 및 인증 정보
-config.json
-*.json
-!문제 서식/*.docx
-
-# 라이센스 발급 기록 (개발자 전용)
-license_records.json
-
-# keygen은 배포 제외 (개발자 전용)
-keygen.py
-
-# Google OAuth 토큰
-*token*.json
-client_secret*.json
-
-# Claude Code (훅 설정은 포함, 로컬 전용만 제외)
+# Claude Code 로컬 전용
 .claude/settings.local.json
+
+# Word 임시 파일
+~$*
 
 # OS
 .DS_Store
 Thumbs.db
 desktop.ini
-
-# IDE
-.vscode/
-.idea/
+client_secret*.json
